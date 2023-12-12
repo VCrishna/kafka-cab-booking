@@ -4,7 +4,7 @@
 
 ### START THE KAFKA ENVIRONMENT
 
-    ### Navigate to Kafka folder
+     0. Navigate to Kafka folder
 
      1. Command to Start the ZooKeeper service
         > $ bin/zookeeper-server-start.sh config/zookeeper.properties
